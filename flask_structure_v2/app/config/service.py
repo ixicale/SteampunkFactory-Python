@@ -11,12 +11,20 @@ class Service(object):
 
     """
     @param {string} api
+    @param {string} endpoint
     Metodo para obtener la url donde apunta la api
 
     @return {json}
     """
 
-    def curl(self, api="", extends="", headers={}):
-        url = (self.entorno.get(api, NotFound) + extends)
-        r = requests.get(url=url, headers=headers)
+    def curl(self, api="", endpoint="", headers={}):
+        url = self.entorno.get(
+            api,
+            ""
+        ) + endpoint
+
+        r = requests.get(
+            url=url,
+            headers=headers
+        )
         return r.json()
