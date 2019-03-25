@@ -25,7 +25,7 @@ class flask_api(object):
     """
 
     def endpoints(self, r):
-        r.add_resource(PageTestController, '/pagetestcontroller/<string:name>')
+        r.add_resource(PageTestController, '/consume_url/<string:name>')
         r.add_resource(TestController, '/')
 
         return r
