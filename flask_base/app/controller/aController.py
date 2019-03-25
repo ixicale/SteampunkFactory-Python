@@ -9,5 +9,5 @@ class PageTestController(BaseController):
         super(PageTestController, self).__init__()
 
     def get(self, name):
-        data = self.curl(api="productions", endpoint="/" + name, headers={})
+        data = self.curl(api=name)
         return data
