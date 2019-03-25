@@ -10,9 +10,10 @@ class Service(object):
     def __init__(self):
         super(Service, self).__init__()
         self.entorno = entorno.get("DEV", NotFound)
-
-    def curl(self, api, endpoint):
-        print(api, endpoint)
+        self.extends = ("testing controller: " +
+                        self.__class__.__name__.lower())
+    def curl(self, api, endpoint, headers):
+        print("\nAPI =>", api, "\nENDPOINT =>", endpoint, "\nHEADERS =>", headers)
         url = self.entorno.get(
             api,
             ""
