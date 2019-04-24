@@ -6,5 +6,8 @@ class sasuke(cooler):
         super(sasuke, self).__init__()
         self.builder(__file__)
 
-    def ejemplo_funcion(self):
-        return "hola"
+    def ejemplo_funcion(self,params={}):
+        return ("hola")
+
+    def ejemplo_funcion2(self,params={}):
+        return ("hola2")
