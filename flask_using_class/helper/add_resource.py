@@ -8,7 +8,7 @@ def add_endpoint(clase,funcion,metodos=['Get'],flask=Flask(__name__)):
         'task':funcion,
         'url':str(clase)+str(funcion.__name__),
     }
-    print(arr['url'])
+    # print(arr['url'])
     @flask.route(str(arr['url']),endpoint=str(arr['url']), methods=arr['methods'])
     def gen():
         from flask import request
