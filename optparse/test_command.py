@@ -22,19 +22,11 @@ def run(app):
         dest="port"
     )
 
-    parser.add_option('-E', '--env',
-        type='choice',
-        action='store',
-        dest='environment',
-        choices=['PRO', 'QA', 'DEV',],
-        default='DEV',
-        help='Environment to run on',
-    )
     (options, args) = parser.parse_args()
     print(options)
 
-    # app.run(
-    #     debug=options.debug,
-    #     host=options.host,
-    #     port=int(options.port)
-    # )
+    app.run(
+        debug=options.debug,
+        host=options.host,
+        port=int(options.port)
+    )

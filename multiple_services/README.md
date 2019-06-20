@@ -20,14 +20,14 @@ Project/
     util/
     |   __init__.py
     |   world/
-        |    __init__.py <- function endpoints(Api)
-        |    endpoint1.py <- Class Country
-        |    endpoint2.py <- Class City
+    |   |    __init__.py <- function endpoints(Api)
+    |   |    endpoint1.py <- Class Country
+    |   |    endpoint2.py <- Class City
 
     |   factory/
-        |    __init__.py <- function endpoints(Api)
-        |    endpoint1.py <- Class Component
-        |    endpoint2.py <- Class Device
+    |   |    __init__.py <- function endpoints(Api)
+    |   |    endpoint1.py <- Class Component
+    |   |    endpoint2.py <- Class Device
 ```
 
 
