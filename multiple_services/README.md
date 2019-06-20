@@ -119,7 +119,16 @@ or you can execute your file
 
 **Remember!**
 
-To configure your flags, go to **config/flask.py** and set all commands that you want
+1. It is a fast explanations to know how to develop using this example!
+2. To configure your flags, go to **config/flask.py** and set all commands that you want
 
 I hope this documentation has been useful.
+
 ## (^o^)/
+
+<hr/>
+
+<p align="center">
+  <b><strong>powered by:</strong></b><br>
+  <a href="https://github.com/ixicale">ixicale</a>
+</p>

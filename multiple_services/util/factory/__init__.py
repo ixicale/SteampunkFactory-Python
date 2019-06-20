@@ -6,8 +6,8 @@ from flask_restful import Api
 # sys.path.append("../..")
 # # section ends uncoment just for test
 
-from util.factory.endpoint1 import Component
-from util.factory.endpoint2 import Device
+from util.factory.class_name1 import Component
+from util.factory.class_name2 import Device
 
 
 "----------------------- Se le asignan rutas a las clases importadas"

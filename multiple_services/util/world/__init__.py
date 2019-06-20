@@ -3,8 +3,8 @@
 import sys
 sys.path.append("../..")
 
-from util.world.endpoint1 import Country
-from util.world.endpoint2 import City
+from util.world.class_name1 import Country
+from util.world.class_name2 import City
 
 
 "----------------------- Se le asignan rutas a las clases importadas"
