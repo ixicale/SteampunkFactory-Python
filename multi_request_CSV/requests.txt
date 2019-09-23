@@ -1,0 +1,1 @@
+{"resort":"ZHIM","marketCode":"4","roomTypeCategories":[],"travelBegin":"2020-01-01","travelEnd":"2020-01-07","system_id":14}
