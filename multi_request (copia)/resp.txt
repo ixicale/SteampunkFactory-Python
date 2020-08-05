@@ -1,0 +1,156 @@
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3569, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/azucena_ocean_white.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/azucena_ocean_white_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3569, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/azucena_ocean_white.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/azucena_ocean_white_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3569, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/azucena_ocean_white.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/azucena_ocean_white_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3569, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/azucena_ocean_white.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/azucena_ocean_white_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3735, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cabo_signature_breath.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cabo_signature_breath_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3735, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cabo_signature_breath.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cabo_signature_breath_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3735, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cabo_signature_breath.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cabo_signature_breath_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3735, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cabo_signature_breath.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cabo_signature_breath_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3728, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cloe_rose.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cloe_rose_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3728, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cloe_rose.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cloe_rose_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3728, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cloe_rose.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cloe_rose_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3728, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cloe_rose.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/cloe_rose_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3733, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/katrina_garden.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/katrina_garden_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3733, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/katrina_garden.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/katrina_garden_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3733, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/katrina_garden.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/katrina_garden_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3733, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/katrina_garden.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/katrina_garden_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3732, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/liz_heaven.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/liz_heaven_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3732, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/liz_heaven.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/liz_heaven_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3732, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/liz_heaven.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/liz_heaven_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3732, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/liz_heaven.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/liz_heaven_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3747, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/miranda_exquisite.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/miranda_exquisite_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3747, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/miranda_exquisite.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/miranda_exquisite_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3747, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/miranda_exquisite.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/miranda_exquisite_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3747, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/miranda_exquisite.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/miranda_exquisite_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3734, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/roxanne_garden_rose.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/roxanne_garden_rose_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3734, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/roxanne_garden_rose.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/roxanne_garden_rose_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3734, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/roxanne_garden_rose.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/roxanne_garden_rose_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3734, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/roxanne_garden_rose.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/roxanne_garden_rose_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3715, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3715, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3715, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3715, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3715, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3715, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3715, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3715, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donut_wall_24_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3324, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3714, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3324, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3324, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3324, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3714, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3714, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3714, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3714, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3714, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3714, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3714, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/donuts_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3725, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/anne_bloom.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/anne_bloom_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3725, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/anne_bloom.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/anne_bloom_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3725, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/anne_bloom.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/anne_bloom_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
+
+INSERT INTO `clv_products`.`service_servicio_asset` (`idservice_servicio`, `idcliente`, `path`, `externo`, `thumb`, `estado`, `usuario_creacion`, `fecha_creacion`, `usuario_ultima_modificacion`, `fecha_ultima_modificacion`) VALUES (3725, '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/anne_bloom.png', '1', 'https://s3.amazonaws.com/webfiles_palace/clever/products/assets/anne_bloom_thumb.png', '1', 'ixicale', '2020-06-04 00:00:00', 'ixicale', '2020-06-04 00:00:00');
+
